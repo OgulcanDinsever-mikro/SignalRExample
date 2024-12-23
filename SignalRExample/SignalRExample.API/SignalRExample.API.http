@@ -1,0 +1,6 @@
+@SignalRExample.API_HostAddress = http://localhost:5048
+
+GET {{SignalRExample.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
